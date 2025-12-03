@@ -18,18 +18,8 @@ body{
 
 input{
     padding: 10px;
-    width: 399px;
 }
 
 button{
     padding: 10px;
-}
-
-h3{
-    padding: 5px;
-    text-align: center;
-}
-
-h2{
-    text-align: center;
 }
